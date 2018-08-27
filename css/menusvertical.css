@@ -1,0 +1,27 @@
+ul{
+	list-style-type: none;
+	margin:  0px;
+	padding: 0px;
+	border: 1px solid #CCC;
+	width: 130px;
+
+}
+
+a{
+	font-family: 'Fjalla One', sans-serif;
+	text-decoration: none;
+	font-size: 18px;
+	display: block;
+	padding: 8px;
+	border: 1px solid #CCC ;
+	background-color: #EAEAEA;
+	color: #000;
+}
+
+a:hover{
+	color: #00F;
+	background-color: #666;
+	border-right-width: 5px;
+	border-right-color: blue;
+
+}
